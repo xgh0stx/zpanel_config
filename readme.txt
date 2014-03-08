@@ -1,3 +1,10 @@
+
+Description:
+
+Configuration files for zpanel. This repo stores critical configuration for tune up purpose. 
+
+
+
 zpanel config files            /etc/zpanel/configs
 zpanel apache config files     /etc/zpanel/configs/apache/httpd.conf
 zpanel virtual host file       /etc/zpanel/configs/apache/httpd-vhost.conf
