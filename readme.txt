@@ -20,7 +20,7 @@ Apache config file              /etc/apache2/httpd.conf
 Apache log files                /var/log/apache2/error.log
 
 
-php.ini                        /etc/php5/apache2/error.log
+php.ini                        /etc/php5/apache2/php.ini
 
 
 mysql config file               /etc/mysql/my.cnf
